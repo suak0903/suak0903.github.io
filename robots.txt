@@ -1,0 +1,3 @@
+# Host-robots für alle GitHub-Pages-Entwürfe unter suak0903.github.io: nichts crawlen, auch keine Bilder und Videos.
+User-agent: *
+Disallow: /
